@@ -4,6 +4,8 @@
 
 * 배포 링크 : https://ramverwatch.ml/
 
+### 일반 화면
 ![오버워치 선택창](https://github.com/marugy/OverwatchCharacterSelect/assets/91540464/834bbf04-bbe4-4766-949c-544d488c7ff1)
-
+### 초상화에 마우스를 올렸을 때
+![오버워치 초상화선택](https://github.com/marugy/OverwatchCharacterSelect/assets/91540464/c832d73c-b3ac-4c31-bdc2-8df393b06442)
 
